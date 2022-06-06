@@ -54,13 +54,13 @@ body {
 }
 
 .task {
-  background-color: rgb(255, 202, 202);
+  background-color: rgb(255, 232, 232);
   margin: 10px;
   padding: 10px 20px;
   cursor: pointer;
 }
 
-.task .reminder {
+.reminder {
   border-left: 5px solid red;
 }
 
